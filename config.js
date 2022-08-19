@@ -1,35 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
+global.owner = ['6282154156241'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.nameowner = '𝘼𝙈𝙄𝙍𝙍⁩⁩'
+global.numberowner = '6282154156241'
+global.instagram = 'https://www.instagram.com/amirbot_01'
+global.github = 'https://github.com/USER0106'
+global.dana = '085321043537'
+global.pulsa = '085321043537'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
+global.namebot = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://www.instagram.com/amirbot_01' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/78d91b88d50ffdb889d38.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/52c56273897fa602a6401.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm2 = '                     「 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏⁩ 」'
+global.wm3 = '𝘼𝙈𝙄𝙍𝙍'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
+global.media = 'https://telegra.ph/file/52c56273897fa602a6401.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = 'Process...'
 global.eror = 'ERROR'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = '𝘼𝙈𝙄𝙍𝙍'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
